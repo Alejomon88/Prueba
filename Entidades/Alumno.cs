@@ -1,4 +1,5 @@
 // Cambio en mastervv
+// Esto si funciona y hay q hacer un merge
 using System;
 
 namespace CoreEscuela.Entidades
