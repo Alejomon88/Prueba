@@ -1,3 +1,4 @@
+// Cambio en mastervv
 using System;
 
 namespace CoreEscuela.Entidades
